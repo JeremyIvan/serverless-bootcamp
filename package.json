@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "serverless-postgres": "^2.0.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^12.0.4",
+    "serverless-plugin-common-excludes": "^4.0.0",
+    "serverless-plugin-include-dependencies": "^5.0.0"
+  }
+}
